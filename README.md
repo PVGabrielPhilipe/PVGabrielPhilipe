@@ -9,8 +9,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvgabrielphilipe@gmail.com)
 
 ![Gabriel Magalhães GitHub stats](https://github-readme-stats.vercel.app/api?username=PVGabrielPhilipe&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PVGabrielPhilipe)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PVGabrielPhilipe&layout=compact&langs_count=7&theme=dracula)
 
 ## Tecnologias que eu tenho mais afinidade:
 
