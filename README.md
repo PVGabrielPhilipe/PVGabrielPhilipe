@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**PVGabrielPhilipe/PVGabrielPhilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Gabriel Philipe Lima Magalhães 🖐️ 
 
-Here are some ideas to get you started:
+### Formas para entrar em contato comigo:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-magalh%C3%A3es-b27356255/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.magalhaes/?theme=dark)
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvgabrielphilipe@gmail.com)
+
+![Gabriel Magalhães GitHub stats](https://github-readme-stats.vercel.app/api?username=PVGabrielPhilipe&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PVGabrielPhilipe)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Tecnologias que eu tenho mais afinidade:
+
+<div style="display: inline_block"><br/>
+<img aling="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img aling="center" alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div><br/>
