@@ -9,9 +9,9 @@
 
 
 ## 🐱‍👤Sobre mim:
-Meu nome é Gabriel Philipe Lima Maglhães, tenho 17 anos. Estou cursando técnico em Desenvolvimento de Sistemas na ETEC de SJC.
-Conheci o mundo da programção na Pandemia, e durante ela aprendi Python que foi a primeira linguagem que tive contato, através de Curso em Vídeo no YouTube. Depois desse comece na promagramção me interessei muito nesse mundo, e então procurei um curso para ficar melhor nessa área, então entrei na ETEC no curso de DS, e apartir desse curso conheci a matéria de Banco de Dados(BD) e que hoje em dia sou apaixonado, desde então meu foco é na área de BD, e pretendo me tornar um DBA futurarmente.
-
+Meu nome é Gabriel Philipe Lima Magalhães, tenho 18 anos. 
+Estou cursando técnico em Desenvolvimento de Sistemas na ETEC.
+Colaborar em um ambiente de trabalho onde possa colocar em prática meus conhecimentos em favor da instituição na qual viso integrar, objetivando sempre o benefício e o crescimento da organização e o crescimento profissional.
 
 ## Tecnologias que eu tenho um certo conhecimento:
 
