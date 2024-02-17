@@ -29,7 +29,7 @@ Colaborar em um ambiente de trabalho onde possa colocar em prática meus conheci
 </div><br/>
 
 ### Formas para entrar em contato comigo:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-philipe-lima-magalh%C3%A3es-b27356255/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-philipe-lima-magalh%C3%A3es-b27356255/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.magalhaes/?theme=dark)
 
